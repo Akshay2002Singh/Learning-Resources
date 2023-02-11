@@ -1,13 +1,34 @@
-#   _Learning Resources_
-## Crypto Currency
+#   **_Learning Resources_**
+
+# Index
+* [Crypto Currency](#Crypto-Currency)
+* [DSA](#DSA)
+* [Machine Learning](#Machine-Learning)
+* [Data Science](#Data-Science)
+* [Linux](#Linux)
+* [Computer Networking](#Computer-Networking)
+* [SQL](#SQL)
+* [Web Developement](#Web-Developement)
+* [Ethical Hacking](#Ethical-Hacking)
+* [Docker, Devops and Mlops](#Docker)
+* [Python](#Python)
+
+# Crypto Currency
 crypto https://charcharbinks.com/post/ctf_crypto_for_beginners/
 
-## DSA
+**[⬆ Back to Index](#index)**
+
+# DSA
 
 ## All Algorithms
-![](https://akshay2002singh.github.io/Learning-Resources/DSA/IMG_20220822_130726.jpg)
+<!-- ![](https://akshay2002singh.github.io/Learning-Resources/DSA/IMG_20220822_130726.jpg) -->
+<p align="center">
+<img src="https://akshay2002singh.github.io/Learning-Resources/DSA/IMG_20220822_130726.jpg">
+</p>
 
-## Machine Learning
+**[⬆ Back to Index](#index)**
+
+# Machine Learning
 
 ### Comparision between different ML Algorithms here!
 ![](https://akshay2002singh.github.io/Learning-Resources/ML/IMG_20220511_020537.jpg)
@@ -65,7 +86,9 @@ ___
 ### Use Cases of DL!
 ![Use Cases of DL!](https://akshay2002singh.github.io/Learning-Resources/ML/IMG_20220912_100538.jpg)
 
-## Data Science
+**[⬆ Back to Index](#index)**
+
+# Data Science
 
 ### Your Guide to become a Data Scientist!
 ![Your Guide to become a Data Scientist!](https://akshay2002singh.github.io/Learning-Resources/DATA_SCIENCE/IMG_20220902_123038.jpg)
@@ -85,8 +108,9 @@ ___
 ### Data Visualization !
 ![Data Visualization !](https://akshay2002singh.github.io/Learning-Resources/DATA_SCIENCE/IMG_20220504_101720.jpg)
 
+**[⬆ Back to Index](#index)**
 
-## Linux
+# Linux
 
 ### Your LINUX Commands Cheatsheet here!
 ![Your LINUX Commands Cheatsheet here!](https://akshay2002singh.github.io/Learning-Resources/OS/IMG_20220427_101913.jpg)
@@ -116,18 +140,19 @@ ___
 ### Your LINUX Commands Cheatsheet here!
 ![Your LINUX Commands Cheatsheet here!](https://akshay2002singh.github.io/Learning-Resources/OS/IMG_20220924_125129.jpg)
 
+**[⬆ Back to Index](#index)**
 
-## Computer Networking
+# Computer Networking
 
 ### Find CN Cheatsheets here!
 ![Find CN Cheatsheets here!](https://akshay2002singh.github.io/Learning-Resources/CN/IMG_20221019_111703.jpg)
 
-
+**[⬆ Back to Index](#index)**
 
 
 ![](https://akshay2002singh.github.io/Learning-Resources/CN/IMG_20221019_111703.jpg)
 
-## SQL
+# SQL
 
 ### Your SQL Cheatsheet here!
 ![Your SQL Cheatsheet here!](https://akshay2002singh.github.io/Learning-Resources/SQL/IMG_20210903_201700.jpg)
@@ -157,8 +182,9 @@ ___
 ### Your SQL Cheatsheet here!
 ![Your SQL Cheatsheet here!](https://akshay2002singh.github.io/Learning-Resources/SQL/IMG_20221017_200734.jpg)
 
+**[⬆ Back to Index](#index)**
 
-## Web Developement
+# Web Developement
 
 ### Your HTML Cheatsheet!
 ![Your HTML Cheatsheet!](https://akshay2002singh.github.io/Learning-Resources/WEB_DEV/IMG_20220429_091704.jpg)
@@ -173,9 +199,9 @@ ___
 ### Your Javascript Cheatsheet here!
 ![Your Javascript Cheatsheet here!](https://akshay2002singh.github.io/Learning-Resources/WEB_DEV/IMG_20220429_205053.jpg)
 
+**[⬆ Back to Index](#index)**
 
-
-## Ethical Hacking
+# Ethical Hacking
 
 ### Your Ethical Hacking Cheatsheet here!]
 ![Your Ethical Hacking Cheatsheet here!](https://akshay2002singh.github.io/Learning-Resources/ETHICAL_HACKING/IMG_20220305_182343.jpg)
@@ -203,7 +229,9 @@ ___
 ### Top Websites To Learn Ethical Hacking!
 ![Top Websites To Learn Ethical Hacking!](https://akshay2002singh.github.io/Learning-Resources/ETHICAL_HACKING/IMG_20221116_090252.jpg)
 
-## Docker
+**[⬆ Back to Index](#index)**
+
+# Docker
 
 ### Top Devops Tools!
 ![Top Devops Tools!](https://akshay2002singh.github.io/Learning-Resources/DEVOPS/IMG_20220708_225604.jpg)
@@ -235,7 +263,9 @@ ___
 
 ___
 
-## Python
+**[⬆ Back to Index](#index)**
+
+# Python
 
 ### Python Libraries for Cyber Security !
 ![Python Libraries for Cyber Security !](https://akshay2002singh.github.io/Learning-Resources/PYTHON/IMG_20220619_191850.jpg)
