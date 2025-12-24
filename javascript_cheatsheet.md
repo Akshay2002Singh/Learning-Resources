@@ -12,11 +12,11 @@ const arr = new Array(5).fill(0);  // 5 elements, all 0
 
 | Function | Description | Complexity | Example |
 | :--- | :--- | :--- | :--- |
-| `push(v)` | Add to end (Stack push) | O(1) | `arr.push(10);` |
-| `pop()` | Remove from end (Stack pop) | O(1) | `arr.pop();` |
-| `shift()` | Remove from front (Queue/Deque) | O(N) | `arr.shift();` |
-| `unshift(v)` | Add to front (Deque) | O(N) | `arr.unshift(5);` |
-| `slice(s, e)` | Get sub-array (shallow copy) | O(K) | `arr.slice(1, 4);` |
+| `push(v)` | Add to end | O(1) | `arr.push(10);` |
+| `pop()` | Remove from end | O(1) | `arr.pop();` |
+| `shift()` | Remove from front | O(N) | `arr.shift();` |
+| `unshift(v)` | Add to front | O(N) | `arr.unshift(5);` |
+| `slice(s, e)` | Get sub-array | O(K) | `arr.slice(1, 4);` |
 | `splice(i, c, ...v)`| Delete/Insert at index | O(N) | `arr.splice(1, 2, 'a');` |
 | `length` | Property (count) | O(1) | `arr.length;` |
 | `indexOf(v)` | Find index of value | O(N) | `arr.indexOf(10);` |
